@@ -1,0 +1,2 @@
+1.LinkedList.java and Sort1 is for part1. Open the file and run. The number is gengerate random.
+2.Main.java, Search1 and Search2 is for part2. You can change the array value in int[] test line, and searchKey1 is the value you want to find.
